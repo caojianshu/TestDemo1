@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void initViews() {
+        int num = 0;
+        String name = null;
     }
 }
